@@ -1,0 +1,8 @@
+camelot-py
+python-magic
+pytesseract
+ghostscript
+sqlalchemy
+kraken
+Pillow==9.0.0
+openpyxl
