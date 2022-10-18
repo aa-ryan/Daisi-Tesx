@@ -6,3 +6,5 @@ sqlalchemy
 kraken
 Pillow==9.0.0
 openpyxl
+opencv-python-headless
+matplotlib
